@@ -13,14 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=120&section=header&text=WESTnoWISE&fontSize=50)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwestnowise&count_bg=%23EAD9E9&title_bg=%23000000&icon=mcdonalds.svg&icon_color=%23FADEF2&title=+west&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=westnowise&show_icons=true&theme=dracula)
 
 
 ## 😈 WEST LOG 😈
-<a href =""
-<img src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+<a href ="https://www.notion.so/westnowise-913/">
+<img src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
 
 
@@ -34,6 +37,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/
         Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
+</div>
     
     
     
