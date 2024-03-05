@@ -69,4 +69,5 @@ Here are some ideas to get you started:
     <br>
 </div>
 </div>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwestnowise&count_bg=%23EAD9E9&title_bg=%23000000&icon=mcdonalds.svg&icon_color=%23FADEF2&title=+west&edge_flat=false)](https://hits.seeyoufarm.com)
