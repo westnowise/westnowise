@@ -46,20 +46,17 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
-    
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>  
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> 
     </div>
-    
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
-    
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
