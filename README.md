@@ -44,7 +44,8 @@ Here are some ideas to get you started:
     <div>
     <p><strong>Data</strong></p>
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/scikitlearn-scikitlearn?style=for-the-badge&logo=scikitlearn&logoColor=white">
     </div>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
