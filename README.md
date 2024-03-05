@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=120&section=header&text=WESTnoWISE&fontSize=50)
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westnowise)](https://github.com/anuraghazra/github-readme-stats)
 
