@@ -33,7 +33,6 @@ Here are some ideas to get you started:
     <a href="mailto:suseohyun@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    
     <a href="https://www.instagram.com/j.westnowise">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
@@ -46,7 +45,7 @@ Here are some ideas to get you started:
     <!-- Backend -->
     <p><strong>Data</strong></p>
     <div>
-        <p><strong>Database</strong></p>
+    <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
