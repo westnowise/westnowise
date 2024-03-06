@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ## 😈 WEST LOG 😈
-<a href ="https://www.notion.so/westnowise-913/">
+<a href ="https://www.notion.so/westnowise/">
 <img src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
 
