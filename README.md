@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 
 
 ## 😈 WEST LOG 😈
+<div style="display:flex; flex-direction:row;">
 <a href ="https://www.notion.so/westnowise/"></a>
 
-
+</div>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
