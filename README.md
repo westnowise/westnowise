@@ -31,7 +31,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">        
     </div>
     <div>
-        <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=AWS&logoColor=white"> 
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> 
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
         <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> 
         <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">   
